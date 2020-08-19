@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DB24EFD3-FD49-4AA4-9D91-F3DB79B5E3AA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59BACE1D-E3D5-43E1-A3EE-485E791F73DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelBook/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "59BACE1D-E3D5-43E1-A3EE-485E791F73DC - 1762d83a9afb12e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.__deallocating_deinit"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pelinsucelebi/Desktop/pelinsu/IOSApps/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "59BACE1D-E3D5-43E1-A3EE-485E791F73DC - 50dbb520ebfaa33f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TravelBook.ListViewController"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pelinsucelebi/Desktop/pelinsu/IOSApps/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "59BACE1D-E3D5-43E1-A3EE-485E791F73DC - 6d2d65b78a8e9fff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TravelBook.ListViewController"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pelinsucelebi/Desktop/pelinsu/IOSApps/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "318">
+               </Location>
+               <Location
+                  uuid = "59BACE1D-E3D5-43E1-A3EE-485E791F73DC - 518a0056e8272837"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TravelBook.ListViewController&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pelinsucelebi/Desktop/pelinsu/IOSApps/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "59BACE1D-E3D5-43E1-A3EE-485E791F73DC - 49444209863053b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TravelBook.ListViewController&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pelinsucelebi/Desktop/pelinsu/IOSApps/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "275">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF670B35-D120-45D4-B3A2-75CB0026FA60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelBook/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FF670B35-D120-45D4-B3A2-75CB0026FA60 - 3f9f90a9bd10afb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.nameArray.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pelinsucelebi/Desktop/pelinsu/IOSApps/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "FF670B35-D120-45D4-B3A2-75CB0026FA60 - e0665d7a9e0213b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.nameArray.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pelinsucelebi/Desktop/pelinsu/IOSApps/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "FF670B35-D120-45D4-B3A2-75CB0026FA60 - 4f70201df8bf0eb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.nameArray.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pelinsucelebi/Desktop/pelinsu/IOSApps/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "FF670B35-D120-45D4-B3A2-75CB0026FA60 - 7f09aaa351ccb553"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.nameArray.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pelinsucelebi/Desktop/pelinsu/IOSApps/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "FF670B35-D120-45D4-B3A2-75CB0026FA60 - 6d2d65b78a8e9fff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TravelBook.ListViewController"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pelinsucelebi/Desktop/pelinsu/IOSApps/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "318">
+               </Location>
+               <Location
+                  uuid = "FF670B35-D120-45D4-B3A2-75CB0026FA60 - 49444209863053b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TravelBook.ListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TravelBook.ListViewController&gt;"
+                  moduleName = "TravelBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pelinsucelebi/Desktop/pelinsu/IOSApps/TravelBook/TravelBook/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "275">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
